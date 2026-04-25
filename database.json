@@ -5,11 +5,8 @@
       "username": "User1",
       "expiry": "2026-07-23",
       "banned": false,
-      "maxDevices": 40,
-      "devices": [
-        ,
-        "771a6174d943a84f"
-      ]
+      "maxDevices": 0,
+      "devices": []
     },
     {
       "key": "MEF9",
