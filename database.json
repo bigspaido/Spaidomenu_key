@@ -6,7 +6,10 @@
       "expiry": "2026-07-23",
       "banned": false,
       "maxDevices": 40,
-      "devices": []
+      "devices": [
+        ,
+        "b943cd0c3ac997d0"
+      ]
     },
     {
       "key": "MEF9",
